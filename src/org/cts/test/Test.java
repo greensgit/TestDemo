@@ -8,4 +8,9 @@ public class Test {
 	private void addToKart() {
 		System.out.println("This is rajkumar branch");
 	}
+	
+	private void cancel() {
+		System.out.println("This is selva");
+	}
+	
 }
